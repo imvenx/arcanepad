@@ -1,4 +1,4 @@
-@import './base.css';
+/* @import './base.css';
 
 #app {
   max-width: 1280px;
@@ -31,5 +31,41 @@ a,
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
+  }
+} */
+
+* {
+  background-color: black;
+  color: white
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: yellow
+}
+
+a {
+  animation: anchorAnim 1.5s infinite;
+  text-decoration: overline dotted;
+  color: rgb(130, 206, 198);
+}
+
+@keyframes anchorAnim {
+  25% {
+    color: rgb(168, 252, 112);
+    text-decoration: line-through dotted;
+  }
+
+  50% {
+    color: rgb(255, 163, 240);
+    text-decoration: underline dotted;
+  }
+
+  75% {
+    color: rgb(146, 146, 146);
+    text-decoration: line-through dotted;
   }
 }
