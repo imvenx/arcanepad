@@ -3,15 +3,14 @@
     <h1>Arcanepad 0.0.1</h1>
 
 
-    <a href="/downloads/desktop/opengaming_0.0.1_amd64.snap">
-      <!-- <a href="../../public//downloads/desktop/opengaming_0.0.1_amd64.snap"> -->
+    <a href="src/../public/downloads/desktop/opengaming_0.0.1_amd64.snap" blank=" ">
       <h3>
         Destkop download
       </h3>
     </a>
     <br />
     <br />
-    <a href="/downloads/android/app-release_0.0.1.apk">
+    <a href="src/../downloads/android/app-release_0.0.1.apk">
       <h3>
         Android download
       </h3>
