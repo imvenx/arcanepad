@@ -3,14 +3,14 @@
     <h1>Arcanepad 0.0.1</h1>
 
 
-    <a href="/imvenx/arcanepad/blob/master/public/downloads/desktop/opengaming_0.0.1_amd64.snap?raw=true">
+    <a href="downloads/desktop/opengaming_0.0.1_amd64.snap">
       <h3>
         Destkop download
       </h3>
     </a>
     <br />
     <br />
-    <a href="/imvenx/arcanepad/blob/master/public/downloads/android/app-release_0.0.1.apk">
+    <a href="downloads/android/app-release_0.0.1.apk">
       <h3>
         Android download
       </h3>
