@@ -53,6 +53,12 @@ a {
   color: rgb(130, 206, 198);
 }
 
+a:hover {
+  animation: anchorAnim .2s infinite;
+  text-decoration: overline dotted;
+  color: rgb(130, 206, 198);
+}
+
 @keyframes anchorAnim {
   25% {
     color: rgb(168, 252, 112);
