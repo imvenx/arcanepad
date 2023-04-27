@@ -3,7 +3,7 @@
     <h1>Arcanepad 0.0.1</h1>
 
 
-    <a href="downloads/desktop/arcanepad_0.0.1.AppImage.zip">
+    <a href="downloads/desktop/arcanepad_0.0.1.AppImage">
       <h3>
         Destkop download
       </h3>
