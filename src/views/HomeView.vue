@@ -3,18 +3,20 @@
     <h1>Arcanepad 0.0.1</h1>
 
 
-    <a href="https://github.com/imvenx/arcanepad/raw/master/downloads/desktop/arcanepad_0.0.1.AppImage">
-      <h3>
-        Destkop download
-      </h3>
-    </a>
+    <!-- <a disabled href="https://github.com/imvenx/arcanepad/raw/master/downloads/desktop/arcanepad_0.0.1.AppImage"> -->
+    <h3 style=";">
+      <span style="color:grey; text-decoration: line-through;">
+        Destkop download</span> (soon)
+    </h3>
+    <!-- </a> -->
     <br />
     <br />
-    <a href="https://github.com/imvenx/arcanepad/raw/master/downloads/android/arcanepad_0.0.1.apk">
-      <h3>
-        Android download
-      </h3>
-    </a>
+    <!-- <a disabled href="https://github.com/imvenx/arcanepad/raw/master/downloads/android/arcanepad_0.0.1.apk"> -->
+    <h3 style=";">
+      <span style="color:grey; text-decoration: line-through;">
+        Android download</span> (soon)
+    </h3>
+    <!-- </a> -->
   </main>
 </template>
 
