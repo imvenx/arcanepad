@@ -1,11 +1,11 @@
 <template>
-  <main style="text-align: center;">
-
+  <main style="text-align: center; padding-top: 2em">
 
     <!-- <div style="border:1px solid red; position:relative"> -->
 
     <!-- <div style="display:grid;  justify-content: center; text-align: center; margin:auto; "> -->
     <GamepadPhone />
+    <!-- <AllIcons /> -->
     <!-- <GunPhone /> -->
     <!-- </div> -->
 
@@ -41,6 +41,7 @@
 import ArcanepadLogo from '@/components/icons/ArcanepadLogo.vue';
 import GamepadPhone from '@/components/icons/GamepadPhone.vue';
 import GunPhone from '@/components/icons/GunPhone.vue';
+import AllIcons from '@/components/icons/AllIcons.vue';
 
 
 </script>
