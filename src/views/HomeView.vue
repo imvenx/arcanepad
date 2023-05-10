@@ -4,10 +4,10 @@
 
     <!-- <div style="border:1px solid red; position:relative"> -->
 
-    <div style="display:grid;  justify-content: center; text-align: center; margin:auto; ">
-      <GamepadPhone />
-      <!-- <GunPhone /> -->
-    </div>
+    <!-- <div style="display:grid;  justify-content: center; text-align: center; margin:auto; "> -->
+    <GamepadPhone />
+    <!-- <GunPhone /> -->
+    <!-- </div> -->
 
     <!-- <div style=" border:1px solid red; position:absolute; bottom:0; transform:rotate(45deg)">asd</div>
     </div> -->
