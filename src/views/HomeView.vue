@@ -1,8 +1,6 @@
 <template>
   <main style="text-align: center; padding-top: 2em">
 
-    <!-- <div style="border:1px solid red; position:relative"> -->
-
     <!-- <div style="display:grid;  justify-content: center; text-align: center; margin:auto; "> -->
     <GamepadPhone />
     <!-- <AllIcons /> -->
