@@ -1,6 +1,7 @@
 <template>
   <div style="margin:0 2em">
     <nav style="display:flex; gap:2em; ">
+
       <RouterLink to="/">
         <h3>Home</h3>
       </RouterLink>
@@ -9,9 +10,10 @@
       </RouterLink>
 
     </nav>
-    <div id="arcanepadText" style="text-align: center;  font-size: 2em; color:cyan;">
-      Arcanepad
-    </div>
+    <!-- <div id="arcanepadText" style="text-align: center;  font-size: 2em;"> -->
+    <!-- <img src="src/assets/images/ArcanepadLogo.png" style="width:3em" /> -->
+    <!-- rcanepad -->
+    <!-- </div> -->
     <RouterView />
   </div>
   <br>
