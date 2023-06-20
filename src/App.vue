@@ -7,7 +7,11 @@
       <RouterLink to="/privacy">
         <h3>Privacy</h3>
       </RouterLink>
+
     </nav>
+    <div id="arcanepadText" style="text-align: center;  font-size: 2em; color:cyan;">
+      Arcanepad
+    </div>
     <RouterView />
   </div>
   <br>
@@ -17,4 +21,14 @@
 <script setup lang="ts">
 </script>
 
-<style scoped></style>
+<style scoped>
+/* #arcanepadText {
+  animation: arcanepadTextAnim 3s infinite;
+}
+
+@keyframes arcanepadTextAnim {
+  50% {
+    color: cyan
+  }
+} */
+</style>

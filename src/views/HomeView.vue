@@ -1,9 +1,8 @@
 <template>
   <main style="text-align: center; padding-top: 2em">
-
     <!-- <div style="display:grid;  justify-content: center; text-align: center; margin:auto; "> -->
-    <Phone />
-    <!-- <GamepadPhone /> -->
+    <!-- <Phone /> -->
+    <GamepadPhone />
     <!-- <AllIcons /> -->
     <!-- <GunPhone /> -->
     <!-- </div> -->
@@ -25,8 +24,9 @@
         Android download</span> (soon)
     </h3> -->
     <!-- </a> -->
-
-    <div style="font-size: 1.5em;">
+    <div style="margin-top: 2em;font-size: 1.5em;">
+      Deciphering ancient technology
+      <br>
       <!-- Step into the <a href="https://discord.gg/6Pr9JBCGXy" target="_blank"> Chronochamber</a> (Discord) -->
       In the meanwhile, join our <a href="https://discord.gg/6Pr9JBCGXy" target="_blank"> Discord</a>
     </div>
