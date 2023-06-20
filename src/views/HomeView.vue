@@ -30,7 +30,7 @@
       <!-- Step into the <a href="https://discord.gg/6Pr9JBCGXy" target="_blank"> Chronochamber</a> (Discord) -->
       In the meanwhile, join our <a href="https://discord.gg/6Pr9JBCGXy" target="_blank"> Discord</a>
     </div>
-    <img src="../assets/images/ArcanepadLogo.png" style="width:6em; margin-top:1em; " />
+    <img src="../assets/images/ArcanepadLogo.png" style="width:15vh; margin-top:1em; " />
 
   </main>
   <!-- <div style="text-align: center;">
