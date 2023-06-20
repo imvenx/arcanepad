@@ -1,4 +1,10 @@
+body {
+  margin: 0;
+}
+
 /* @import './base.css';
+
+
 
 #app {
   max-width: 1280px;
@@ -44,7 +50,7 @@ h1 {
 }
 
 h3 {
-  color: yellow
+  color: cyan
 }
 
 a {

@@ -10,6 +10,8 @@
     </nav>
     <RouterView />
   </div>
+  <br>
+  <!-- <div style="background: linear-gradient(to top,   blue, red); width: 100vw; height:100vh"> </div> -->
 </template>
 
 <script setup lang="ts">
